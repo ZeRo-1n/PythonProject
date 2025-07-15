@@ -7,7 +7,7 @@ import asyncio
 
 
 bot = Bot(
-    token='8143853300:AAE9VbLh4gqVu38OtxjTXofO9X3ivMprpXk',
+    token='токен',
     default=DefaultBotProperties(parse_mode=ParseMode.HTML)
 )
 
